@@ -1,0 +1,8 @@
+Your Conversation Log:
+You: Hi Good morning. my name is Optimus
+AI: Good morning, Optimus! How can I assist you today?
+
+You: How are you
+AI: Thank you for asking! I'm just a computer program, so I don't have feelings, but I'm here and ready to help you. How are you doing today?
+
+End of Conversation
